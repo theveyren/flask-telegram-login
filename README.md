@@ -16,3 +16,5 @@ app.jinja_env.globals.update(BOTDOMAIN = REQUIRED) #домен вашего са
 Также установите Flask: `cmd` `>>` `pip install flask`
 
 По всем вопросам https://theveyren.tk/discord
+
+Когда вы уже поставите свой сайт на домен - не забудьте поменять домен сайта в коде и в BotFather
